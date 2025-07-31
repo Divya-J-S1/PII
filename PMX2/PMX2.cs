@@ -2,7 +2,8 @@
 
 public class Test
 {
-	public Test()
+	public PMX2()
 	{
+		string s="Welcome";
 	}
 }
